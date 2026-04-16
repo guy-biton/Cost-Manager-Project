@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Environment Variables mapping secrets securely
+.env
+
+# Optional debug logs generically tracking faults
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Operating System generic cache
+.DS_Store
+Thumbs.db
